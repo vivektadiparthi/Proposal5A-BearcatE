@@ -20,4 +20,5 @@
 </ul>
 
   
-### Client tasks
+## Client Tasks
+Please review the app screen images and proposal provided. A commit done by the client indicates their approval for the design.
