@@ -11,6 +11,16 @@ Bearcat Events is a progresive web application which consists of a list of event
 | [Vivek](https://github.com/vivektadiparthi)| Back-End Developer       | $45   |       45*15=$675        |
 | [Amulya](https://github.com/amulyareddybaddam)| Front-End Developer        | $45      |      45*15=$675         |
 
+## Schedule & Sprints according to GDP semesters
+### GDP-1
+| Sprints      | Start & End Dates | Tasks     |
+| :---        |    :----:   |          ---: |
+| Sprint-1      | 09/20/21 - 10/01/21       | Gathering requirements   |
+| Sprint-2   | 10/02/21 - 10/13/21        | Producing and enhancing functional requirements      |
+| Sprint-3   | 10/14/21 - 10/25/21        | Building UI and mochup screens      |
+| Sprint-4   | 10/26/21 - 11/07/21        | Developing Login and Signup screens      |
+### GPD-2
+
 ## Technology Stack
 ### Programming Languages   
 <ul>
