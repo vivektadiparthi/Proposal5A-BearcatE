@@ -21,6 +21,14 @@ Bearcat Events is a progresive web application which consists of a list of event
 | Sprint-4   | 10/26/21 - 11/07/21        | Developing Login and Signup screens      |
 ### GPD-2
 
+| Sprints      | Start & End Dates | Tasks     |
+| :---        |    :----:   |          ---: |
+| Sprint-5      | 01/12/22 - 01/26/22       | Develop Backend for authentication pages  |
+| Sprint-6   | 01/27/22 - 02/10/22       | Create Database model and work with Heroku  |
+| Sprint-7   | 02/11/22 - 02/25/22        | Develop all UI pages based on requirement     |
+| Sprint-8   | 02/26/22 - 03/12/22        | Develop back-end for the App and API to fetch data from database      |
+| Sprint-9  | 03/13/22 - 03/27/22        |  Testing and deployment of Application     |
+
 ## Technology Stack
 ### Programming Languages   
 <ul>
