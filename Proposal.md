@@ -61,7 +61,10 @@ Bearcat Events is a progresive web application which consists of a list of event
 ![Login](https://github.com/vivektadiparthi/Proposal5A-BearcatE/blob/main/images/Login.png)
 ### SignUp Screen
 ![Signup](https://github.com/vivektadiparthi/Proposal5A-BearcatE/blob/main/images/SignUp.png)
-  
+
+## References
+[Proposal ref](https://github.com/giridhar196/proposal)
+
 ## Client Tasks
 Please review the app screen images and proposal provided. A commit done by the client indicates their approval for the design.
 #### PRAMOD REDDY GONEGARI
