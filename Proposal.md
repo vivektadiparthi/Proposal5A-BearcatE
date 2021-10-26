@@ -51,6 +51,9 @@ Bearcat Events is a progresive web application which consists of a list of event
 ## ER Diagram
 ![ER](https://github.com/vivektadiparthi/Proposal5A-BearcatE/blob/main/images/proposal%20er.jpeg)
 
+## Sample Data
+![Sampledata](https://github.com/vivektadiparthi/Proposal5A-BearcatE/blob/main/images/Sample%20data.PNG)
+
 ## Mockup Screens
 ### Home Screen
 ![Home](https://github.com/vivektadiparthi/Proposal5A-BearcatE/blob/main/images/HomePage.png)
